@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.robert.questiontwo.Help"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Account:"
+        android:textSize="12pt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter a Valid Email and Password into the Fields. Press Create Account And your unique account will be created." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login:"
+        android:textSize="12pt" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To Login supply your Valid email and Password, and press the Login Button." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Now Showing:"
+        android:textSize="12pt"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To View movies that are currently in the Cinema, or that are tredning, Press the Now Showing button. This will present you with a List of movies that you can add to your reminder list, by pressing the options icon on each movie and pressing Set Reminder." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search Movie:"
+        android:textSize="12pt"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To search for a movie, tap the Search button in the menu screen. This will bring up a search bar and button at the top of the screen. Type in any movie title or word and it will return a list of movies for you to add to your reminders, as discussed before." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reminder List:"
+        android:textSize="12pt" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To View your Reminders, you simply tap on the Reminder Button in the Menu screen. You will then be presented with a list of movies that you have added to your reminder list. To tick a movie off your list, simply tap the options icon, and press watched. This will remove the item from your list." />
+
+</LinearLayout>
+

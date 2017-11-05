@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057045119212",
+    "firebase_url": "https://movietime-5f731.firebaseio.com",
+    "project_id": "movietime-5f731",
+    "storage_bucket": "movietime-5f731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057045119212:android:dea48eab3af49476",
+        "android_client_info": {
+          "package_name": "com.project.MovieTime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057045119212-ump27grjrchr6h8qhhgg23efg01v9i56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.MovieTime",
+            "certificate_hash": "46d7079902f319b3fd98e5ffafc63db2fbf0b72f"
+          }
+        },
+        {
+          "client_id": "1057045119212-tv8mb24h2smf6gf53nkqkl92h1uupfu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7q4_KxoDXZSO-bpIFYj4LQNSJnRbwmww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057045119212-tv8mb24h2smf6gf53nkqkl92h1uupfu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
