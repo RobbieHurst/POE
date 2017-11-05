@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804166777663",
+    "firebase_url": "https://questiontwo-56d24.firebaseio.com",
+    "project_id": "questiontwo-56d24",
+    "storage_bucket": "questiontwo-56d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804166777663:android:b17eb5b8d6eefde6",
+        "android_client_info": {
+          "package_name": "com.example.robert.questiontwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804166777663-rnsitjsj403f3g083b7akp12ue84rud9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robert.questiontwo",
+            "certificate_hash": "46d7079902f319b3fd98e5ffafc63db2fbf0b72f"
+          }
+        },
+        {
+          "client_id": "804166777663-tmrh83sfnj300fp7tul1ed259volfurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKf_D5-NlIfOYFDjBZ3auYOZ09GHphPys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804166777663-tmrh83sfnj300fp7tul1ed259volfurp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

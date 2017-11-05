@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuestionTwo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hint_password">hint</string>
+    <string name="hint_email">email</string>
+    <string name="auth_failed">It failed</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_review_activity">review_activity</string>
+</resources>

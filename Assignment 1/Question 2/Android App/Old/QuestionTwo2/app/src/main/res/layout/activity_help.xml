@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.robert.questiontwo.Help"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Account:"
+        android:textSize="12pt"
+        android:textColor="@color/createAccountButton"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter a Valid Email and Password into the Fields. Press Create Account And your unique account will be created."
+        android:textColor="@color/createAccountButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login:"
+        android:textSize="12pt"
+        android:textColor="@color/loginButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To Login supply your Valid email and Password, and press the Login Button."
+        android:textColor="@color/loginButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drop Marker:"
+        android:textSize="12pt"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="There are 2 ways to place a marker on the map. You can tap on the map at the desired location, which will then provide the user with the Create review page. The other alternative is to press the location button located at the buttom of the screen which will get the users current location."
+        android:textColor="@color/loginButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Review:"
+        android:textSize="12pt"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="One the marker has been placed you will be presented with the Review window where you can Enter a Message, giving all the details of the review, and you can give a rating out of 5, by dragging your finger up and down the start bar."
+        android:textColor="@color/loginButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit Review:"
+        android:textSize="12pt"
+        android:textColor="@color/createAccountButton"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To Edit a review, tap the Map marker you are looking to change. You will then be presented with a information window, to edit it, simply tap the information window and you will then be taken to the edit review page. In this page you also have the ability to delete the review by pressing the delete button on said page."
+        android:textColor="@color/loginButton"/>
+
+</LinearLayout>
